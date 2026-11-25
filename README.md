@@ -13,7 +13,7 @@ Diseñar y configurar una topología de red que permita la comunicación entre d
 
 ## Topología de red
 
-![Topología de red](Imágenes/topologia.png)
+![Topología de red](/Imagenes/topologia.png)
 
 ## Dispositivos utilizados
 
@@ -62,8 +62,8 @@ Se realizaron pruebas mediante el comando `ping` para verificar la comunicación
 
 Se comprobó la conectividad en ambos sentidos entre las redes LAN, validando el funcionamiento del enrutamiento estático.
 
-![Conectividad de red](Imágenes/PCA-ping.png)
-![Conectividad de red](Imágenes/PCD-ping.png)
+![Conectividad de red](/Imagenes/PCA-ping.png)
+![Conectividad de red](/Imagenes/PCD-ping.png)
 
 ## Tecnologías y herramientas
 
